@@ -1,14 +1,14 @@
 # JavaSATSolver
 SAT Solver implemented in Java
 
-Main ohne Paramter ausführen: Programm sucht nach Ordner small aim und führt alle Dateien
+Main ohne Paramter ausführen: Programm sucht nach Ordner "small_aim" und führt alle Dateien
 in den Ordnern "yes" und "no" aus.
 
 Unit Tests:
 "testSolve" tested für alle Dateien aus den Ordnern "yes" und "no", ob CDCL den erwarteten
 Wert zurück gibt.
 
-Beispiel ausgabe:
+Beispiel Ausgabe:
 
 ```bash
 
